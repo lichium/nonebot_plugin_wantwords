@@ -1,4 +1,4 @@
-# nonebot-plugin-wantwords
+# nonebot_plugin_wantwords
 # contributor: Limnium
 
 from nonebot import on_command, get_driver
