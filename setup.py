@@ -11,7 +11,7 @@ setuptools.setup(
     version="0.1.0",
     author="limnium",
     author_email="limnium@yeah.com",
-    keywords=("nonebot2", "nonebot", "nonebot_plugin"),
+    keywords=["nonebot2", "nonebot", "nonebot_plugin"],
     description="""use wantwords as a plugin of nonebot""",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -24,5 +24,5 @@ setuptools.setup(
     ],
     include_package_data=True,
     platforms="any",
-    install_requires=['nonebot-adapter-onebot>=2.0.0-beta.1,<3.0.0', 'nonebot2>=2.0.0-beta.1,<3.0.0', 'httpx>=0.19.0', ]
+    install_requires=['nonebot-adapter-onebot>=2.0.0-beta.1,<3.0.0', 'nonebot2>=2.0.0-beta.1,<3.0.0', 'httpx>=0.19.0']
 )
