@@ -45,6 +45,18 @@ nb plugin install nonebot_plugin_wantwords
 # .env或.env.*
 wantwords_max_results=10 # 最大输出结果数，为[1,100]整数，默认为10。
 ```
+## 使用
+
+发送
+```
+找词 <模式> <描述>
+```
+`找词`可用别名`反向词典` `wantwords`替代
+`<模式>`见下表
+|`zhzh`|`zhen`|`enzh`|`enen`|
+|  :-: |  :-: | :-:  | :-:  |
+| 中—>中|中—>英 |英—>中|英—>英 |
+`<描述>`即对希望找到的词的描述
 
 ## 更新日志
 - v0.1.0 🎉
