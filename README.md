@@ -39,7 +39,7 @@ nonebot.load_plugin('nonebot_plugin_wantwords')
 nb plugin install nonebot-plugin-wantwords
 ```
 
-__备注：`-`还是`_`我要分不清啦，如果安装或调用失败就请调换一下，すみまぜん！__
+_备注：`-`还是`_`我要分不清啦，如果安装或调用失败就请调换一下，すみません！_
 
 ## 配置
 
