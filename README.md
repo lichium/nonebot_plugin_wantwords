@@ -25,18 +25,18 @@ WantWords，但是Nonebot插件
 
 #### 法一：[pip](https://pypi.org/project/nonebot_plugin_wantwords/)
 
-``` bash
-pip install nonebot_plugin_wantwords
+``` 
+pip install nonebot-plugin-wantwords
 ```
 
 ``` python
 # NoneBot项目中
-nonebot.load_plugin('nonebot_plugin_wantwords')
+nonebot.load_plugin('nonebot-plugin-wantwords')
 ```
 
 #### 法二：nb-cli「推荐」
-``` bash
-nb plugin install nonebot_plugin_wantwords
+```
+nb plugin install nonebot-plugin-wantwords
 ```
 
 ## 配置
